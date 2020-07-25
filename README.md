@@ -11,7 +11,7 @@
 ## Find me around the web 🌎:
 - Tech Communities <a href="https://www.instagram.com/pyladiesmed/">pyladiesMedellin</a> 🐍🧡
                    <a href="https://www.instagram.com/datasciencefem/">Data Science Fem</a> 👩‍💻📊📈
-- Twitter <a href="https://twitter.com/marisbotero/">Twitter</a> 🐦
+- Twitter <a href="https://twitter.com/marisbotero/">@marisbotero</a> 🐦
 - Sharing updates on <a href="https://www.linkedin.com/in/marisbotero/">LinkedIn</a> 💼
 
 

@@ -1,7 +1,9 @@
 ### Hi! I'm Maris Botero 🦄
 
-<p><em>Machine Learning Engineer🤓</br>
-<p>I play with data, I paint with light and sometimes I take care of plants<p>
+<p>🌳I play with data, I paint with light and sometimes I take care of plants🌹<p>
+
+<p><em>I'm currently working as a Machine Learning Engineer🤓</br>
+
 
 </em></p>
 

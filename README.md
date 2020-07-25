@@ -1,5 +1,5 @@
 ### Hi! I'm Maris Botero 🦄
-<img src="https://github.com/marisbotero/marisbotero/blob/master/ma.PNG">
+<img src="https://github.com/marisbotero/marisbotero/blob/master/ma.PNG" width="100” height=”100”>
 
 <p>🌳I play with data, I paint with light and sometimes I take care of plants🌹<p>
 

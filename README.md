@@ -16,7 +16,7 @@
 <details>
   <summary align="center"><samp>fighting for love and justice</samp></summary>
   <hr>
-  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="I believe in Magic every single day!" align="left" valign="middle"> <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m ① an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code> 
+  <img src="https://media.giphy.com/media/kcBtjw8c7r5ESUMEfW/giphy.gif" alt="I believe in Magic every single day!" align="left" valign="middle"> <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m ① an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code> 
   <hr>
   <p align="center">
     👋 have the best day you can 🌈<br>

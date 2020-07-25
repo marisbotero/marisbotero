@@ -8,6 +8,7 @@
 <div class="heart heart-bg"></div>
 <div class="heart heart-main"></div>
 
+<style>
 body {
   width: 100%;
   height: 100%;
@@ -89,6 +90,7 @@ body {
     transform: scale(50);
   }
 }
+</style>
 <!--
 **marisbotero/marisbotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

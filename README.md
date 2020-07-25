@@ -18,10 +18,9 @@
   <hr>
   <img src="https://media.giphy.com/media/YP119g2tueQAEVgaLi/giphy.gif" width="200" height="200" alt="A 200x200 image> 
   
-  <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m ① an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code> 
-  <hr>
+ 
   <p align="center">
-    👋 have the best day you can 🌈<br>
+    I believe in magic every single day🌠🌟⭐ <br>
     <a href="https://twitter.com/intent/tweet?text=@skullface%20owo%20hello%21%20"><kbd>say hi on twitter</kbd></a> <a href="https://instagram.com/skvllface"><kbd>follow me on ig</kbd></a>
    </p>
 </details>
@@ -33,14 +32,4 @@
 <!--
 **marisbotero/marisbotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! I'm Maris Botero 🦄
 
+<h2> <img src="https://twitter.com/marisbotero/photo" width="40"></h2>
 <!--
 **marisbotero/marisbotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

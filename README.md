@@ -8,7 +8,11 @@
 
 </em></p>
 
-### A little more about me...  
+## Find me around the web 🌎:
+
+
+- Sharing updates on <a href="https://www.linkedin.com/in/marisbotero/">LinkedIn</a> 💼
+
 
 ```
 

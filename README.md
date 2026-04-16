@@ -13,7 +13,7 @@
 
 - 🐍🧡 Tech Communities: **pyladiesMedellin** & **Data Science Fem** 👩‍💻📊📈  
 - 🐦 Twitter: [@marisbotero](https://twitter.com/marisbotero)  
-- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/)  
+- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/marisbotero)  
 
 ---
 

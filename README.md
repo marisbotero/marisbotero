@@ -14,20 +14,9 @@
   - [PyLadies Medellín](https://www.instagram.com/pyladiesmed/)  
   - [Data Science Fem](https://www.instagram.com/datasciencefem/) 👩‍💻📊📈  
 
-- 🐦 Twitter (X): [@marisbotero](https://x.com/marisbotero/)  
+- 🐦 (X): [@marisbotero](https://x.com/marisbotero/)  
 - 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/marisbotero/)  
 
----
-
-## ✨ My magical tools:
-
-- 🐍 Python  
-- ☁️ Google Cloud  
-- 🤖 Machine Learning & AI  
-- 🎨 p5.js (creative coding)  
-- 🐳 Docker  
-
----
 
 ## ✨ My magical tools:
 
